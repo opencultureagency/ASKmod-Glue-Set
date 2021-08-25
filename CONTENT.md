@@ -6,7 +6,7 @@
 
 ## Glue Set
 
-![#ASKmod Glue Set](https://github.com/opencultureagency/ASKmod-Glue-Set/blob/662a4c975de1f11089481abcc7356cd4df87e53e/images/ASKmod-Glue-Set.jpg)
+![#ASKmod Glue Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-Glue-Set/662a4c975de1f11089481abcc7356cd4df87e53e/images/ASKmod-Glue-Set.jpg)
 
 ## Items
 
