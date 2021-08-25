@@ -2,8 +2,9 @@
 
 #ASKmod is a part of the #ASKotec project: [Official Website](https://askotec.openculture.agency)
 
+Sometimes you have to glue to fix a device again. Here we have collected the most important glues in a set.
 
-![#ASKmod Glue Set](/images/ASKmod-Glue-Set.jpg)
+![#ASKmod Glue Set](images/ASKmod-Glue-Set.jpg)
 
 ### [View product in #ASKotec Stockroom](https://askotec.openculture.agency/product/askmod-glue-kit/)
 
@@ -18,7 +19,7 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0](https://github.com/opencultureagency/ASKmod-Glue-Set/tree/v.1.0.0): [content file](CONTENT.md)
+- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Glue-Set/tree/v.1.0.0): [content file](CONTENT.md)
 
 ## Contributers
 
